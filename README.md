@@ -21,7 +21,7 @@ Collection of tools, techniques and useful links concerning security and exposed
 * [s3recon](https://github.com/clarketm/s3recon) - Amazon S3 bucket finder and crawler
 * [s3finder](https://github.com/magisterquis/s3finder) - Can search using a wordlist or by monitoring the certstream network for domain names from certificate transparency logs
 * [kicks3](https://github.com/abuvanth/kicks3) - S3 bucket finder from html,js and bucket misconfiguration testing tool
-* [bucket_finder][https://github.com/mattweidner/bucket_finder) - DigiNinja's bucket_finder utility - By mattweidner
+* [bucket_finder](https://github.com/mattweidner/bucket_finder) - DigiNinja's bucket_finder utility - By mattweidner
 * [Bucket_Finder](https://github.com/hazana/Bucket_Finder) - Leaky Buckets - By hazana
 * [haka_toni_bucket_finder](https://github.com/jjvmak/haka_toni_bucket_finder) - Yet another S3 Bucket finder (_No official description provided_)
 * [s3-open-bucket-finder](https://github.com/siddharth2395/s3-open-bucket-finder) - Yet another S3 Bucket finder (_No official description provided_)
