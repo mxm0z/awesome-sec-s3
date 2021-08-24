@@ -1,8 +1,8 @@
-# Awesome AWS S3 - Security, Tools and Intel
+## Awesome AWS S3 Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mxm0z/awesome-sec-s3)
 
 Collection of tools, techniques and useful links concerning security and exposed AWS S3 Buckets
 
-# Tools
+#### Tools
 
 * [Grayhat Warfare](http://buckets.grayhatwarfare.com/) - A free tool that lists open s3 buckets and helps you search for interesting files
 * [Slurp](https://github.com/hehnope/slurp) - Evaluate the security of S3 buckets
@@ -32,20 +32,20 @@ Collection of tools, techniques and useful links concerning security and exposed
 * [goGetBucket](https://github.com/glen-mac/goGetBucket) - A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain
 * [bucket_finder](https://github.com/FishermansEnemy/bucket_finder) - Trawl Amazon S3 buckets for interesting files
 
-# General Purpose Tools
+#### General Purpose Tools
 
 * [CloudScraper](https://github.com/jordanpotti/CloudScraper) - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space
 * [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) - A collection of tools to find data that has been made public in cloud storage systems such as S3 Buckets and Digital Ocean Spaces
 * [exif-scraper](https://github.com/downpat/exif-scraper) - Grab photos from an S3 bucket and store their EXIF data in a database
 * [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers) - Web scraping library for dumping MLB stats in S3 bucket csv files
 
-# Techniques
+#### Techniques
 
 * [enum_wayback](https://github.com/mubix/stuff/blob/master/metasploit/enum_wayback.rb) - Metasploit module that pulls and parses the URLs stored by Archive.org for the purpose of replaying during a web assessment. Finding unlinked and old pages.
 
 ![](https://i.imgur.com/zSU8dBk.png)
 
-# Articles
+#### Articles
 
 * [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks)
 * [How to search for Open Amazon s3 Buckets and their contents](https://medium.com/@grayhatwarfare/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01)
@@ -56,7 +56,7 @@ Collection of tools, techniques and useful links concerning security and exposed
 * [Exposed S3 bucket CloudTrail logs — Another way to compromise security](https://www.cloudmanagementinsider.com/exposed-s3-bucket-cloudtrail-logs/)
 * [Fantastic! Public S3 Buckets and How to Find Them](https://auth0.com/blog/fantastic-public-s3-buckets-and-how-to-find-them/)
 
-# Videos
+#### Videos
 
 * [How do I find out which S3 buckets allow access from the Internet?](https://www.youtube.com/watch?v=xHK_A_lscoA)
 * [Securing and Protecting Against Exposed S3 Buckets](https://youtu.be/UIN-je82K3A)
