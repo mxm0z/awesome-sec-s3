@@ -1,4 +1,4 @@
-msf5 > use auxiliary/scanner/http/enum_wayback
+msf5 > use auxiliary/scanner/http/enum_wayback/patch-1-lostleolotus/aux_scan_enum_wayback
 
 msf5 auxiliary (scanner/http/enum_wayback) > set domain s3.amazonaws.com
 
