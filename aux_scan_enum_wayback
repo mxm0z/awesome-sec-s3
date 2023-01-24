@@ -1,0 +1,21 @@
+msf5 > use auxiliary/scanner/http/enum_wayback/patch-1-lostleolotus/aux_scan_enum_wayback
+
+msf5 auxiliary (scanner/http/enum_wayback) > set domain s3.amazonaws.com
+
+domain => s3.amazonaws.com
+
+msf5 auxiliary (scanner/http/enum_wayback) > set outfile buckets
+
+outfile => buckets
+
+msf5 auxiliary (scanner/http/enum_wayback) > run
+
+[*] Pulling urls from Archive.org
+
+[*] Located 254782 addresses for s3.amazonaws.com
+
+[*] Writing URLS list to buckets...
+
+[*] OUTFILE did not exist, creating..
+
+[*] Auxiliary module execution completed msf5 auxiliary (scanner/http/enum_wayback) >
