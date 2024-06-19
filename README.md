@@ -5,7 +5,6 @@ Collection of tools, techniques and useful links concerning security and exposed
 #### Tools
 
 * [Grayhat Warfare](http://buckets.grayhatwarfare.com/) - A free tool that lists open s3 buckets and helps you search for interesting files
-* [Slurp](https://github.com/hehnope/slurp) - Evaluate the security of S3 buckets
 * [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - AWSBucketDump is a tool to quickly enumerate AWS S3 buckets to look for loot
 * [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open AWS S3 buckets and dump the contents - By sa7mon
 * [s3enum](https://github.com/koenrh/s3enum) - Fast Amazon S3 bucket enumeration tool for pentesters
@@ -15,7 +14,6 @@ Collection of tools, techniques and useful links concerning security and exposed
 * [mubrute](https://github.com/GeneralTesler/mubrute) - The tool uses the response code returned by s3.amazonaws.com to determine if a bucket exists and its list permissions
 * [PyLazyS3](https://github.com/Den1al/PyLazyS3) - Enumerate AWS S3 buckets using different permutations
 * [RoboBucketeer](https://github.com/we45/RoboBucketeer) - Robot Framework Library for Buckteer - S3 Buckets & Subdomain Enumeration
-* [s3-inspector](https://github.com/kromtech/s3-inspector) - Tool to check AWS S3 bucket permissions
 * [inSp3ctor](https://github.com/brianwarehime/inSp3ctor) - AWS S3 Bucket/Object Finder
 * [bucketkicker](https://github.com/craighays/bucketkicker) - A tool to quickly enumerate AWS S3 buckets verify whether or not they exist and to look for loot
 * [s3recon](https://github.com/clarketm/s3recon) - Amazon S3 bucket finder and crawler
