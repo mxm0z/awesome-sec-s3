@@ -80,7 +80,7 @@
 | [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) | Find public data in cloud storage systems |
 | [exif-scraper](https://github.com/downpat/exif-scraper) | Extract EXIF data from S3 bucket photos |
 | [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers) | Web scraping for dumping stats to S3 bucket CSV files |
-
+| [s3m](https://github.com/s3m/s3m) | CLI for streams of data in S3 buckets
 ---
 
 ## Techniques
